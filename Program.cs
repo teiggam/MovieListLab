@@ -37,15 +37,19 @@ namespace Movie_List
                 {
                     for (int z = 0; z < acceptedGenres.Count(); z++)
                     {
+                        //Writes out the index and the genre at that index
+
                         Genre y = acceptedGenres[z];
                         Console.WriteLine($"{z} : {y}");
                     }
                     string input = Console.ReadLine().ToLower();
                     Genre inputGenre = (Genre)Enum.Parse(typeof(Genre), input);
+
                     foreach (Movie m in moviesInOrder)
                     {
                         if (m.genre == inputGenre)
                         {
+                            //Writes out movie names that have the same genre as the input, pulling from the alphabetized list.
                             Console.WriteLine(m.Name);
                         }
                     }
@@ -68,7 +72,6 @@ namespace Movie_List
                 string answer = Console.ReadLine();
                 if (answer.ToLower().StartsWith("y"))
                 {
-                    //return true;
                     return true;
                 }
                 else if (answer.ToLower().StartsWith("n"))
