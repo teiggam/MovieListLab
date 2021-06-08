@@ -1,0 +1,13 @@
+C:\Users\Maggie\Documents\Grand Circus\Projects\Movie List\Movie List\obj\Debug\netcoreapp3.1\Movie List.AssemblyInfoInputs.cache
+C:\Users\Maggie\Documents\Grand Circus\Projects\Movie List\Movie List\obj\Debug\netcoreapp3.1\Movie List.AssemblyInfo.cs
+C:\Users\Maggie\Documents\Grand Circus\Projects\Movie List\Movie List\obj\Debug\netcoreapp3.1\Movie List.csproj.CoreCompileInputs.cache
+C:\Users\Maggie\Documents\Grand Circus\Projects\Movie List\Movie List\bin\Debug\netcoreapp3.1\Movie List.exe
+C:\Users\Maggie\Documents\Grand Circus\Projects\Movie List\Movie List\bin\Debug\netcoreapp3.1\Movie List.deps.json
+C:\Users\Maggie\Documents\Grand Circus\Projects\Movie List\Movie List\bin\Debug\netcoreapp3.1\Movie List.runtimeconfig.json
+C:\Users\Maggie\Documents\Grand Circus\Projects\Movie List\Movie List\bin\Debug\netcoreapp3.1\Movie List.runtimeconfig.dev.json
+C:\Users\Maggie\Documents\Grand Circus\Projects\Movie List\Movie List\bin\Debug\netcoreapp3.1\Movie List.dll
+C:\Users\Maggie\Documents\Grand Circus\Projects\Movie List\Movie List\bin\Debug\netcoreapp3.1\Movie List.pdb
+C:\Users\Maggie\Documents\Grand Circus\Projects\Movie List\Movie List\obj\Debug\netcoreapp3.1\Movie List.dll
+C:\Users\Maggie\Documents\Grand Circus\Projects\Movie List\Movie List\obj\Debug\netcoreapp3.1\Movie List.pdb
+C:\Users\Maggie\Documents\Grand Circus\Projects\Movie List\Movie List\obj\Debug\netcoreapp3.1\Movie List.genruntimeconfig.cache
+C:\Users\Maggie\Documents\Grand Circus\Projects\Movie List\Movie List\obj\Debug\netcoreapp3.1\Movie List.csprojAssemblyReference.cache
