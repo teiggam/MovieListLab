@@ -185,9 +185,6 @@ namespace Movie_List
 
 
             }
-            //catch (ArgumentException)
-            //{
-            //}
         }
 
         //Decided I didn't want people to search movies by ID number,
